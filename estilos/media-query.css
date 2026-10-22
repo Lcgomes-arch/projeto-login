@@ -30,7 +30,7 @@
      body{
         background-image: linear-gradient(to top, #D9B9A7, #A64F03);
     }
-    
+
     section#login{
         width: 950px;
         
@@ -47,4 +47,12 @@
         width: 50%;
        
     }
+
+    div#formulario > h1{
+        font-size: 2em;
+    }
+
+    div#formulario > p{
+    font-size: 1.2em;
+}
 }

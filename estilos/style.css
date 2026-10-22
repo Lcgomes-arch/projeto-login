@@ -47,7 +47,7 @@ section#login{
 section#login > div#imagem{
     background: #D9B9A7 url('../imagens/pexels-kyrylo-velchev-2164760595-40339183.jpg') no-repeat;
     background-position: center top;
-    height: 400px;
+    height: 365px;
     background-size: cover;
     display: block;
 }
@@ -55,4 +55,13 @@ section#login > div#imagem{
 section#login > div#formulario{
     display: block;
     padding: 10px;
+}
+
+div#formulario > h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p{
+    font-size: 0.8em;
 }
